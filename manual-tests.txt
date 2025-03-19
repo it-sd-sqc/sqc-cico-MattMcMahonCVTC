@@ -96,4 +96,11 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * Buttons and labels should remain **clearly readable**.
 * No UI elements should become **hard to read** or **invisible**.
 
+# Module 4: Ensure Numerical input only (Ticket 401)
 
+## Test steps
+1. Build and run CiCo.
+2. Enter abcd1234.
+
+## Expected Results
+* Should only display 1234
