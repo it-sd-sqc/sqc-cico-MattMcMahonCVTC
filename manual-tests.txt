@@ -61,6 +61,41 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the user name.
 
+# Module 6: UI Redesign - Neutral Monochromatic Theme
+
+## Test Steps
+1. Build and run CiCo using `./build.sh` and `./run.sh` (or use an IDE).
+2. Observe the UI layout and colors across all screens.
+
+## Expected Results
+* The background should be a **neutral monochromatic color** (light gray or similar).
+* Text should be **dark gray or black** for readability.
+* Buttons should use **neutral colors** with a clear hover effect.
+* The UI should maintain **clear contrast and accessibility**.
+
+# Module 6: UI Consistency Across Screens
+
+## Test Steps
+1. Build and run CiCo.
+2. Navigate through different screens (login, status, etc.).
+3. Verify that the color scheme remains consistent.
+
+## Expected Results
+* All screens should have the same **neutral monochromatic** design.
+* The interface should look **professional and visually appealing**.
+* No elements should **clash with the new color scheme**.
+
+# Module 6: Visibility and Readability Check
+
+## Test Steps
+1. Build and run CiCo.
+2. Check text visibility on different screen sizes.
+
+## Expected Results
+* Text should **contrast well** with the background.
+* Buttons and labels should remain **clearly readable**.
+* No UI elements should become **hard to read** or **invisible**.
+
 # Module 4: Ensure Numerical input only (Ticket 401)
 
 ## Test steps
